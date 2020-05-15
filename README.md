@@ -1,6 +1,4 @@
-# Project 2 - Deploy a High-Availability Web App using CloudFormation 
-
-![img-1](AWS diagram.jpeg)
+# Project 2 - Cloud devops nanodegree -- deploy HA webapp using cloudformation
 
 ## The files included are:
 ```sh
